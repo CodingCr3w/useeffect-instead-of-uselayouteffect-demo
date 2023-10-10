@@ -1,0 +1,34 @@
+{
+  "name": "use-effect-demo",
+  "version": "1.0.0",
+  "description": "M01L06",
+  "keywords": [],
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "17",
+    "react-dom": "17"
+  },
+  "devDependencies": {
+    "@types/react": "17",
+    "@types/react-dom": "17",
+    "@typescript-eslint/eslint-plugin": "6.7.4",
+    "@typescript-eslint/parser": "6.7.4",
+    "@vitejs/plugin-react": "4.1.0",
+    "eslint": "8.50.0",
+    "eslint-plugin-react-hooks": "4.6.0",
+    "eslint-plugin-react-refresh": "0.4.3",
+    "typescript": "5.2.2",
+    "vite": "4.4.11"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
